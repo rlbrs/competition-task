@@ -13640,11 +13640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IC\\GitHub\\talent-competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
+      "projectUniqueName": "D:\\IC\\competition-task\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
       "projectName": "Talent.Services.Profile",
-      "projectPath": "D:\\IC\\GitHub\\talent-competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
+      "projectPath": "D:\\IC\\competition-task\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
       "packagesPath": "C:\\Users\\waghm\\.nuget\\packages\\",
-      "outputPath": "D:\\IC\\GitHub\\talent-competition\\Talent.Services.Profile\\obj\\",
+      "outputPath": "D:\\IC\\competition-task\\Talent.Services.Profile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -13664,8 +13664,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\IC\\GitHub\\talent-competition\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "D:\\IC\\GitHub\\talent-competition\\Talent.Common\\Talent.Common.csproj"
+            "D:\\IC\\competition-task\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "D:\\IC\\competition-task\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }

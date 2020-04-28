@@ -10665,11 +10665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IC\\GitHub\\talent-competition\\Talent.Common\\Talent.Common.csproj",
+      "projectUniqueName": "D:\\IC\\competition-task\\Talent.Common\\Talent.Common.csproj",
       "projectName": "Talent.Common",
-      "projectPath": "D:\\IC\\GitHub\\talent-competition\\Talent.Common\\Talent.Common.csproj",
+      "projectPath": "D:\\IC\\competition-task\\Talent.Common\\Talent.Common.csproj",
       "packagesPath": "C:\\Users\\waghm\\.nuget\\packages\\",
-      "outputPath": "D:\\IC\\GitHub\\talent-competition\\Talent.Common\\obj\\",
+      "outputPath": "D:\\IC\\competition-task\\Talent.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

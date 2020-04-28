@@ -14231,11 +14231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IC\\GitHub\\talent-competition\\Talent.Api\\Talent.Api.csproj",
+      "projectUniqueName": "D:\\IC\\competition-task\\Talent.Api\\Talent.Api.csproj",
       "projectName": "Talent.Api",
-      "projectPath": "D:\\IC\\GitHub\\talent-competition\\Talent.Api\\Talent.Api.csproj",
+      "projectPath": "D:\\IC\\competition-task\\Talent.Api\\Talent.Api.csproj",
       "packagesPath": "C:\\Users\\waghm\\.nuget\\packages\\",
-      "outputPath": "D:\\IC\\GitHub\\talent-competition\\Talent.Api\\obj\\",
+      "outputPath": "D:\\IC\\competition-task\\Talent.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -14255,8 +14255,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\IC\\GitHub\\talent-competition\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "D:\\IC\\GitHub\\talent-competition\\Talent.Common\\Talent.Common.csproj"
+            "D:\\IC\\competition-task\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "D:\\IC\\competition-task\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }

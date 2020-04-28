@@ -13179,11 +13179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IC\\GitHub\\talent-competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectUniqueName": "D:\\IC\\competition-task\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "projectName": "Talent.App.WebApp",
-      "projectPath": "D:\\IC\\GitHub\\talent-competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectPath": "D:\\IC\\competition-task\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "packagesPath": "C:\\Users\\waghm\\.nuget\\packages\\",
-      "outputPath": "D:\\IC\\GitHub\\talent-competition\\App\\Talent.App.WebApp\\obj\\",
+      "outputPath": "D:\\IC\\competition-task\\App\\Talent.App.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
