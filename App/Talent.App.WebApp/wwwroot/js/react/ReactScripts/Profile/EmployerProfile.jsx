@@ -64,7 +64,7 @@ export default class EmployeeProfile extends React.Component {
                 let employerData = null;
                 if (res.employer) {
                     employerData = res.employer
-                    //console.log("employerData", employerData)
+                    console.log("employerData", employerData)
                 }
                 this.updateWithoutSave(employerData)
             }.bind(this),
@@ -186,7 +186,7 @@ export default class EmployeeProfile extends React.Component {
                                 <form className="ui form">
                                     <div className="ui grid">
                                         <FormItemWrapper
-                                            title='Primary Contact Details'
+                                            title='Primary Contact Company Details'
                                             tooltip='Enter your primary contact details'
                                         >
                                             <IndividualDetailSection

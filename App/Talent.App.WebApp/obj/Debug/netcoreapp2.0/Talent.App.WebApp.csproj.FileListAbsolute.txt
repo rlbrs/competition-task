@@ -31,3 +31,17 @@ C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talen
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.dll
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\appsettings.json
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.deps.json
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.json
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.dev.json
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.dll
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.csprojAssemblyReference.cache
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfoInputs.cache
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.dll
+D:\IC\GitHub\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.pdb

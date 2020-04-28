@@ -1461,3 +1461,20 @@ div.ReactTags__selected a.ReactTags__remove {
     margin-bottom: 10px;
 }
 /*Manage jobs - End*/
+.rows .row {
+    display: inline-block;
+    padding-right:10px;
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-margin {
+    margin-left:10px;
+    margin-right:10px
+}
+.pagination {
+    justify-content: center;
+    align-items: center;
+}
